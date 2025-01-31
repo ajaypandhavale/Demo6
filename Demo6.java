@@ -8,6 +8,7 @@ public static void main(String[] args){
 
     System.out.println("Adding commit4");
 
+    System.out.println("Adding commit5");
 }
 
 
