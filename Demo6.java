@@ -4,7 +4,6 @@ public static void main(String[] args){
 
     System.out.println("Adding commit");
 
-    System.out.println("Adding commit2");
 
     System.out.println("Adding commit4");
 
